@@ -1,11 +1,6 @@
-## My Project
+## Fine-tune in Amazon SageMaker Unified Studio using Amazon S3
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Sample artifacts demonstrating how to fine-tune in Amazon SageMaker Unified Studio using Amazon S3.
 
 ## Security
 
